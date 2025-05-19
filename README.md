@@ -15,7 +15,9 @@
 ![carbon](https://github.com/user-attachments/assets/af474ce6-0979-4187-8e72-510756d6bb3d)
 
 Вывод программы
-![carbon (1)](https://github.com/user-attachments/assets/27adf475-3a34-4ab8-961e-acc6f0510180)
+![carbon (2)](https://github.com/user-attachments/assets/7893869f-7099-484f-a894-04b0e6411e73)
 
 Аналитическая проверка 
 ![IMG_20250519_190038659](https://github.com/user-attachments/assets/07a7c1ff-b6d4-4fbe-bf3e-553e5f3618d5)
+
+Как мы видим - ответ программы и аналитическое решение сходится.

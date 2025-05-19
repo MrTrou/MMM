@@ -21,3 +21,21 @@
 ![IMG_20250519_190038659](https://github.com/user-attachments/assets/07a7c1ff-b6d4-4fbe-bf3e-553e5f3618d5)
 
 Как мы видим - ответ программы и аналитическое решение сходится.
+
+Метод Простой итерации (Якоби).
+
+Блок-схема
+![image](https://github.com/user-attachments/assets/c5af1875-6ff4-45ed-898a-57e91d1dc884)
+
+Алгоритм в текстовом виде
+![IMG_20250519_190033418](https://github.com/user-attachments/assets/34751a03-e6e9-4d5e-81b3-ff67507b5419)
+
+Реализация метода Простой итерации (Якоби).
+![carbon (3)](https://github.com/user-attachments/assets/e9afe268-a8a8-4efe-87d8-89981e90c7c4)
+
+Вывод программы
+![carbon (4)](https://github.com/user-attachments/assets/31f56040-0577-43a1-80ff-bf69a2aa8670)
+
+Аналитическая проверка 
+![IMG_20250519_190045707](https://github.com/user-attachments/assets/43bf0b98-8f22-42db-9ab6-404c11659153)
+Как мы видим - ответ программы и аналитическое решение сходится.
